@@ -41,7 +41,9 @@ Notifications and reminders for farming activities
 Dashboard with analytics and statistics
 
 
-Objectives
+
+     Objectives
+
 
 
 Improve farm productivity and organization
@@ -62,7 +64,9 @@ Support efficient resource and inventory management
 Provide accurate agricultural reporting and forecasting
 
 
-Technologies Used
+
+       Technologies Used
+
 
 
 Frontend: React.js / HTML / CSS / Bootstrap
@@ -80,7 +84,9 @@ Mobile Support: React Native (optional)
 Cloud Storage & APIs for weather integration
 
 
+
 Target Users
+
 
 
 Individual Farmers
